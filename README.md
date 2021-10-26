@@ -10,4 +10,4 @@ To open the last submission with a jupter notebook please run the jupyter notebo
 
 To run the 
 
-<img src="https://github.com/IqraShahzad1/SOM_TSP/blob/main/src/display_gif.gif" width="1000" height="1000" />
+<img src="https://github.com/IqraShahzad1/SOM_TSP/blob/main/src/display_gif.gif" width="750" height="750" />
